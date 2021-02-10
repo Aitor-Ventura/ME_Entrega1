@@ -1,0 +1,7 @@
+search()
+library(help="datasets")
+titanic <- data.frame(Titanic)
+head(titanic)
+tail(titanic)
+mean(Nile)
+median(Nile)

@@ -1,0 +1,5 @@
+library(carData)
+datos <- na.omit(Davis)
+attach(datos)
+names(datos)
+summary(datos)
